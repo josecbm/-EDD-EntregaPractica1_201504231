@@ -1,0 +1,16 @@
+c:\users\jose_\onedrive\documents\visual studio 2015\Projects\practica1_edd\practica1_edd\bin\Debug\practica1_edd.exe.config
+c:\users\jose_\onedrive\documents\visual studio 2015\Projects\practica1_edd\practica1_edd\bin\Debug\practica1_edd.exe
+c:\users\jose_\onedrive\documents\visual studio 2015\Projects\practica1_edd\practica1_edd\bin\Debug\practica1_edd.pdb
+c:\users\jose_\onedrive\documents\visual studio 2015\Projects\practica1_edd\practica1_edd\obj\Debug\practica1_edd.csprojResolveAssemblyReference.cache
+c:\users\jose_\onedrive\documents\visual studio 2015\Projects\practica1_edd\practica1_edd\obj\Debug\practica1_edd.Form1.resources
+c:\users\jose_\onedrive\documents\visual studio 2015\Projects\practica1_edd\practica1_edd\obj\Debug\practica1_edd.Properties.Resources.resources
+c:\users\jose_\onedrive\documents\visual studio 2015\Projects\practica1_edd\practica1_edd\obj\Debug\practica1_edd.csproj.GenerateResource.Cache
+c:\users\jose_\onedrive\documents\visual studio 2015\Projects\practica1_edd\practica1_edd\obj\Debug\practica1_edd.exe
+c:\users\jose_\onedrive\documents\visual studio 2015\Projects\practica1_edd\practica1_edd\obj\Debug\practica1_edd.pdb
+C:\Users\jose_\onedrive\documents\visual studio 2015\Projects\practica1_edd\practica1_edd\obj\Debug\practica1_edd.administrarMensajescs.resources
+C:\Users\jose_\onedrive\documents\visual studio 2015\Projects\practica1_edd\practica1_edd\obj\Debug\practica1_edd.colaMensajes.resources
+C:\Users\jose_\onedrive\documents\visual studio 2015\Projects\practica1_edd\practica1_edd\obj\Debug\practica1_edd.dashboard.resources
+C:\Users\jose_\onedrive\documents\visual studio 2015\Projects\practica1_edd\practica1_edd\obj\Debug\practica1_edd.envioMensaje.resources
+C:\Users\jose_\onedrive\documents\visual studio 2015\Projects\practica1_edd\practica1_edd\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jose_\onedrive\documents\visual studio 2015\Projects\practica1_edd\practica1_edd\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jose_\onedrive\documents\visual studio 2015\Projects\practica1_edd\practica1_edd\obj\Debug\practica1_edd.mostrarReporte.resources
